@@ -46,6 +46,7 @@ flutter:
   - assets/superman.jpeg
   - assets/thedarkknightrises.jpg
   - assets/aquaman.jpg
+  - assets/preview.png
 
 
   # An image asset can refer to one or more resolution-specific "variants", see
